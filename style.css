@@ -4,3 +4,16 @@
     z-index:9999;
     
 }
+
+img {
+    width:100%;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius:10.123456789px;
+    margin-bottom: 26px;
+    width:100%;
+    
+}
